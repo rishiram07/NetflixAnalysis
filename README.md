@@ -1,4 +1,4 @@
-# Netflix-Analysis
+# Netflix-Analysis using Tableau
  NetflixAnalysis uses various visualization techniques such as bar graphs, line charts and
  tables to construct an interactive dashboard using Tableau, which provides a detailed
  description of movies and tv shows of netflix platform along with their production details
